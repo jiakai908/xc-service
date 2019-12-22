@@ -1,0 +1,13 @@
+server:
+  port: 31001
+spring:
+  application:
+    name: xc-service-manage-cms
+  data:
+    mongodb:
+      host: 39.99.173.247
+      port: 27017
+      authentication-database: admin
+      database: cms
+      username: root
+      password: root123

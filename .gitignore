@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+*.iml
+xc-framework-utils/target
+xc-framework-model/target
+xc-framework-common/target
+xc-service-api/target
+xc-service-manage-cms/target
